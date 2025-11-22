@@ -35,8 +35,25 @@ body {
 }
 
 .navbar .nav-link.active:hover {
-    background-color: var(--cor-secundaria);
+    background-color: var(--cor-secundaria);   
 }
+
+.nav-pills .nav-link {
+    background-color: transparent !important;
+    color: var(--cor-primaria) !important;
+    border-radius: 8px;
+}
+
+.nav-pills .nav-link:hover {
+    background-color: var(--cor-secundaria) !important;
+    color: var(--cor-texto) !important;
+}
+
+.nav-pills .nav-link.active {
+    background-color: var(--cor-secundaria) !important;
+    color: var(--cor-texto) !important;
+}
+
 
 #menu-navegacao .nav-link:hover,
 #cabecalho h1 {
