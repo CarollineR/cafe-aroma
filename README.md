@@ -1,5 +1,3 @@
-Projeto desenvolvido para treinar conceitos de Bootstrap
-
 Este projeto foi criado com o objetivo de praticar e consolidar conhecimentos em Bootstrap, explorando seus principais componentes, utilidades e conceitos de responsividade.
 O Café Aroma é um site fictício de cafeteria, construído para simular uma landing page moderna, responsiva e visualmente agradável.
 
